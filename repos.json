@@ -3,7 +3,7 @@
       "name": "S22",
       "repo": "https://github.com/yoro1836/kernel_samsung_SM-S901N",
       "branch": "main",
-      "device": "S22"
+      "device": "r0q"
     },
     "withKernelSU": false,
     "toolchains": [
