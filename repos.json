@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "name": "S22",
+      "repo": "https://github.com/yoro1836/kernel_samsung_SM-S901N",
+      "branch": "main",
+      "device": "S22"
     },
     "withKernelSU": true,
     "toolchains": [
